@@ -1,2 +1,2 @@
 # javascrpit miniproject
-simon says game
+simon says game.
